@@ -64,14 +64,14 @@
     <tr>
       <td style="text-align: center;">
         <a href="https://github.com/jhchoman">
-          <img src="https://i.namu.wiki/i/SjTOj_0nrgCREaqtwqrIH37YnYBRHmomooeuh5XqiOpiDOPQzmL7UPFZ1u1_X0A6Jt5ZuYdFuJ8aZyLvqwFE6RydlLIDytV27B53CSElzPEIXu9o_E7HGIMO2wWzeAGP4P6RuuUS7NjIouuSMnp5xw.webp" width="60px" alt="Jaehyuk Github">
+          <img src="" width="60px" alt="Jaehyuk Github">
         </a>
       </td>
       <td style="text-align: center;">
         <strong>조재혁 (Jaehyuk Cho)</strong>
       </td>
       <td style="text-align: center;">
-        <p>Flask web, Visual Slam /p>
+        <p>Flask web, Visual Slam </p>
       </td>
     </tr>
   </table>
