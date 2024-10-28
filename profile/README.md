@@ -106,7 +106,7 @@ Team THREADS의 공식 깃허브에 오신 것을 환영합니다!
     <tr>
       <td style="text-align: center;">
         <a href="https://github.com/jhchoman">
-          <img src="" width="60px" alt="Jaehyuk Github">
+          <img src="https://avatars.githubusercontent.com/u/175600623?v=4" width="60px" alt="Jaehyuk Github">
         </a>
       </td>
       <td style="text-align: center;">
