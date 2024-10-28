@@ -79,8 +79,8 @@ Team THREADS의 공식 깃허브에 오신 것을 환영합니다!
     </tr>
     <tr>
       <td style="text-align: center;">
-        <a href="https://github.com/No-Hyunwoo">
-          <img src="https://github.com/shseohn" width="60px" alt="Seohyeon Github">
+        <a href="https://github.com/shseohn">
+          <img src="https://avatars.githubusercontent.com/u/174945745?v=4" width="60px" alt="Seohyeon Github">
         </a>
       </td>
       <td style="text-align: center;">
